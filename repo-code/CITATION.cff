@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: Learning-adjusted redundancy - reproduction code
+message: >-
+  If you use this code, please cite the manuscript listed below.
+type: software
+authors:
+  - family-names: Guo
+    given-names: Lancong
+    email: sjtuglc@sjtu.edu.cn
+    affiliation: School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+  - family-names: Lyu
+    given-names: Xiadong
+    affiliation: China Ship Development and Design Center, China State Shipbuilding Corporation Limited
+  - family-names: Yu
+    given-names: Gan
+    affiliation: School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+  - family-names: Zhang
+    given-names: Weidong
+    affiliation: School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+  - family-names: Xie
+    given-names: Wei
+    email: weixie@sjtu.edu.cn
+    affiliation: School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+year: 2026
+license: MIT
+keywords:
+  - resilience
+  - redundancy
+  - common-cause failure
+  - adversarial risk
+  - network interdiction
+repository-code: https://github.com/<your-account>/<your-repo>
+abstract: >-
+  Reproduction code for a study of redundancy against an attacker whose identification cost falls as
+  it accumulates similarity-weighted knowledge of the components already removed. Computes the price
+  per unit of capability, the saturation of effective redundancy, the design threshold between adding
+  a backup and moving a signature, and the value of information about the attacker parameters.
+preferred-citation:
+  type: article
+  title: >-
+    When a backup stops being a backup: learning-adjusted identification cost and the limits of
+    redundancy
+  authors:
+    - family-names: Guo
+      given-names: Lancong
+    - family-names: Lyu
+      given-names: Xiadong
+    - family-names: Yu
+      given-names: Gan
+    - family-names: Zhang
+      given-names: Weidong
+    - family-names: Xie
+      given-names: Wei
+  year: 2026

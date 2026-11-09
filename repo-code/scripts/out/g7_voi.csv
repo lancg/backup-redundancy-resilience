@@ -1,0 +1,6 @@
+design,expected_regret_pct
+always backups,0.786
+always 3+3,15.37
+always 2+4,22.303
+"best unconditional (6,0)",0.786
+perfect information (VOI ceiling),0.0
